@@ -1,7 +1,7 @@
-print("E P I C    🪨  📄 ✂️    B A T T L E")
-print("------------------------------------")
+print("ROCK PAPER SCISSORS")
+print()
 print("Select your move Rock,Paper or Scrissors")
-print("------------------------------------")
+print()
 
 player1_score = 0
 player2_score = 0
